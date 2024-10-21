@@ -18,6 +18,12 @@
     background-color: rgb(35, 35, 233);
 }
 
+.card-img-top {
+    height: 350px;
+    
+    resize: both;
+}
+
 
 
 
