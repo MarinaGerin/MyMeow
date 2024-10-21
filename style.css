@@ -1,39 +1,21 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
 
-.btn-Branco {
-    background-color: whitesmoke;
+.btn-Macho {
+    background-color: rgb(35, 35, 233);
 }
 
-.btn-Preto {
-    background-color: #020000;
+.btn-Femea {
+    background-color: rgb(35, 35, 233);
 }
-.btn-Marrom {
-    background-color: #511a00;
+.btn-Filhote {
+    background-color: rgb(35, 35, 233);
 }
-.btn-Cinza {
-    background-color: #595959;
-}
-.btn-Rajado {
-    background-color: #6a5241;
-}
-.btn-Laranja {
-    background-color: orange;
-}
-.btn-Frajola {
-    background-color: #252525;
-}
-.btn-Tricolor {
-    background-color: #a35002;
-}
-.btn-Sem-Pelo {
-    background-color: #8d857d;
-}
-.btn-Tigrado {
-    background-color: #c88800;
+.btn-Especiais {
+    background-color: rgb(35, 35, 233);
 }
 
-.btn-Siamês {
-    background-color: #aba69a;
+.btn-Todos {
+    background-color: rgb(35, 35, 233);
 }
 
 
