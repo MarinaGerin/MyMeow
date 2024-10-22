@@ -52,6 +52,47 @@
 }
 
 .logo2 {
-    height: 350px;
+    height: 200px;
     width: 450px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card:hover {
+    transform: scale(1.10);
+    transition: 0.6s;
+    z-index: 100;
+    cursor: pointer;
 }
