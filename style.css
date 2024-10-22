@@ -33,7 +33,23 @@
     color: rgb(0, 178, 172);
 }
 
+.img-adota {
+    height: 250px;
+    width: 270px;
+}
 
+.img-petz {
+    height: 250px;
+}
+
+.img-pet {
+    height: 250px;
+    width: 270px;
+}
+
+.img-cat {
+    height: 250px;
+}
 
 
 
