@@ -33,45 +33,25 @@
     color: rgb(0, 178, 172);
 }
 
+.imgSobre {
+    width: 250px;
+    height: 220px;
+    border: solid 0;
+    border-radius: 50%;
+    margin: 40px;
+}
 
+.subtitulo {
+    margin-top: 120px;
+}
 
+.lista {
+    margin-top: 12px;
+    margin-left: 10px;
+    font-size: 18px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.card:hover {
-    transform: scale(1.10);
-    transition: 0.6s;
-    z-index: 100;
-    cursor: pointer;
+.logo2 {
+    height: 350px;
+    width: 450px;
 }
