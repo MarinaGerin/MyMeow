@@ -10,28 +10,29 @@
 }
 
 .btn-Macho {
-    background-color: rgb(0, 178, 172);
+    background-color: #e83745;
 }
 
 .btn-Femea {
-    background-color: rgb(0, 178, 172);
+    background-color: #e83745;
 }
 
 .btn-Filhote {
-    background-color: rgb(0, 178, 172);
+    background-color: #e83745;
 }
 
 .btn-Especiais {
-    background-color: rgb(0, 178, 172);
+    background-color: #e83745;
 }
 
 .btn-Todos {
-    background-color: rgb(0, 178, 172);
+    background-color: #e83745;
 }
 
 .card-img-top {
     height: 350px;
     resize: both;
+    border-radius: 40px;
 }
 
 .fs-3, .display-4  {
@@ -90,3 +91,6 @@
     cursor: pointer;
 }
 
+.card {
+    background-color: #eb757f;
+}
