@@ -29,10 +29,9 @@
     background-color: #e83745;
 }
 
-.card-img-top {
-    height: 350px;
+.m-3 {
+    height: 250px;
     resize: both;
-    border-radius: 40px;
 }
 
 .fs-3, .display-4  {
