@@ -51,20 +51,24 @@
 }
 
 .img-adota {
+    border-radius: 10px;
     height: 250px;
     width: 270px;
 }
 
 .img-petz {
+    border-radius: 10px;
     height: 250px;
 }
 
 .img-pet {
+    border-radius: 10px;
     height: 250px;
-    width: 270px;
+    width: 250px;
 }
 
 .img-cat {
+    border-radius: 10px;
     height: 250px;
 }
 
@@ -95,5 +99,15 @@
     
 }
 
+.card-body { 
+    height: 150px;
+} 
 
+#adocao { 
+    border-radius: 15px;
+    height: 400px;
+}
 
+.bx {
+    font-size: 25px;
+}
